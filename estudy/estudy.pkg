@@ -1,0 +1,4 @@
+D 'estudy': Perform an event study Use estudy With STATA 19
+D
+F estudy.ado
+F estudy.sthlp
